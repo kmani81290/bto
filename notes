@@ -1,0 +1,145 @@
+project in caddy
+open production
+open bestacles
+open site surver
+
+tool:
+agr
+inca main
+inca property
+inca gp
+inca tp
+kat
+
+open circuit in kat
+open pcis 
+confirm etab date
+check media convertor
+
+opne kat in 
+
+
+Screens: 
+
+KF (View Circuits Details)
+
+DB (View fiber)  Mark Fiber
+
+SD (View Del analog No)
+
+AD (Create Delanalog No)
+
+DPK (create Fibre)----
+
+DKA (assignb Cable)
+
+ABK (create punk type)
+
+KDX (cable associate)
+
+SUD (stel cable create)
+
+NG (Customer end)
+
+
+Kat Works:
+ sud creation
+
+ Customer : ba abo1
+
+ stel, cable creation
+
+
+
+
+
+
+NG screen
+
+first create sud
+
+yes	no	no
+
+need to create Mast,Kabl
+
+for this take existing customer hhl lsn1
+
+mark mast click enter
+
+edit new customer name both the places, mark it then press f7
+
+then mark kabl enter
+
+then create in nr = 2 then f7 then mark 1 f9
+
+then enter your customer check the mast and kabl are created or not
+
+then proceed with ng mark cable then enter into the ng
+
+before ng you have to create the abk spl to customer res, cent - custo = k
+
+punk creatiion also same like so dont confus
+
+sd click new del no then go to kdx then enter anlog no/c01(existing track del no in agr) like
+
+ Delkabelanlæg: ________________________________________   FE  .
+ Delanlæg:      hk-hk hnm1 304374/132/__________________   Ej  xxx.
+
+ Delanlæg:                               Delkabelanlæg:
+ M: Terminal1/Terminal2/anlnr/lbnr     M: Terminal1/Terminal2/anlnr/lbnr      K
+_ ..................................... _ hk-hk laa21 304374 /c01............ J
+_ ..................................... _ hk laa21-hk laa42 304374 /c12...... J
+_ ..................................... _ hk laa42-hk laa129 304374 /c37..... J
+_ ..................................... _ hk laa129-hk a518 304374 /c81...... J
+_ ..................................... _ hk a518-hk hnm1 304374 /c86........ J
+
+
+
+Open project cady Hx916612
+open 30 series type project
+open bestacle projects
+open sharepoint(attachments)
+open inspection scheme (site survey)
+first thing you must note the what type of project is this that mean 1064,1065
+  add stell , cable => no,no,yes(vægboks)budi2-st
+  Site Survey notes:
+#####################################
+
+Fiber is drilled from the street into the office and is pulled into a cable through the office. From office, fiber is drilled into the copy space and completed in a new messenger box next to the customer's equipment.
+The copy machine should be evenly run aside before fiber is drilled as the wall moves.
+
+######################################
+
+splice fx laa1
+cable 6sm
+customer fx p11
+
+kfscreen hx916612/ 307105
+hx916612 fx p11-fx nqe10
+fx-fx a24 307105/29                        SM   78      6       =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
